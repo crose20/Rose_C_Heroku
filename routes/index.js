@@ -5,7 +5,7 @@ const data = require('../data');
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Saje Diffusers | Invite the power of nature into your décor with an essential oil diffuser. Fill any space, big or small with wellness-enhancing oil blends.' });
+  res.render('index', { title: 'Saje Diffusers', message: 'Invite the power of nature into your décor with an essential oil diffuser. Fill any space, big or small with wellness-enhancing oil blends.' });
   
 });
 
