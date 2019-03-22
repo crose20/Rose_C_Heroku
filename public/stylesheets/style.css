@@ -4,6 +4,11 @@ body {
   background-color: #dedede;
 }
 
+.sajelogo {
+  float: left;
+  width: 100px;
+}
+
 h1 {
   color: #494344;
   font-size: 40px;
@@ -31,9 +36,13 @@ a {
 }
 
 .productpic {
-  width: 50%;
+  width: 40%;
 }
 
 .headerpic {
   width: 100%;
+}
+
+.productinfo {
+  width: 40%;
 }
