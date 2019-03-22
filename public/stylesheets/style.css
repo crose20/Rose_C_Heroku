@@ -1,0 +1,29 @@
+body {
+  padding: 50px;
+  font-family: Futura;
+  background-color: #dedede;
+}
+
+h1 {
+  color: #494344;
+  font-size: 30px;
+}
+
+h4 {
+  color: #494344;
+  font-size: 25px;
+}
+
+p {
+  color: #692d39;
+  font-size: 18px;
+}
+
+a {
+  color: #494344;
+  font-size: 20px;
+}
+
+img {
+  width: 100%;
+}
